@@ -16,12 +16,17 @@ It is designed to be:
 - Understandable for developers 👨‍💻👩‍💻
 
 ✨ Features (v0.2 Beta)
+
 ✅ Inventory input using nicknames
 
 ✅ Weapon filtering (Sword, Claymore, Bow, Catalyst, Polearm)
+
 ✅ Element exclusion filter
+
 ✅ Role-based team validation
+
 ✅ Build choice selection
+
 ✅ Best team rotation order (1 → 4)
 
 🧠 How the Optimizer Thinks
