@@ -17,6 +17,7 @@ It is designed to be:
 
 ✨ Features (v0.2 Beta)
 ✅ Inventory input using nicknames
+
 ✅ Weapon filtering (Sword, Claymore, Bow, Catalyst, Polearm)
 ✅ Element exclusion filter
 ✅ Role-based team validation
