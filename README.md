@@ -45,6 +45,7 @@ It is designed to be:
 
 
 📁 genshin-team-optimizer/
+
 │
 
 ├── calc.py                        # Main optimizer script
